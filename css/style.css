@@ -211,8 +211,8 @@ section.dark .toggleT {
       -ms-flex-align: center;
           align-items: center;
   cursor: pointer;
-  -webkit-transform: translateZ(20px);
-          transform: translateZ(20px);
+  -webkit-transform: translateZ(50px);
+          transform: translateZ(50px);
 }
 
 .toggleT:before {
